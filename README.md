@@ -1,4 +1,4 @@
-# nonRepeating
+# Non Repeating Alternating Characters
 Manipulates a string such that there are no matching adjacent characters. Done with Linked List.
 
 This is my attempt at solving the question:
