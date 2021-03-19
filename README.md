@@ -8,6 +8,7 @@ To do this, you are allowed to delete zero or more characters in the string. You
 
 ## Sample Input 
 ```
+ASSSSDADDD
 AAAA
 BBBBB
 ABABABAB
@@ -16,6 +17,7 @@ AAABBB
 ```   
 ## Sample Output
 ```
+5
 3
 4
 0
