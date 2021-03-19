@@ -1,0 +1,28 @@
+{
+  "name": "nonrepeating",
+  "version": "1.0.0",
+  "description": "Non-repeating Alternating Characters",
+  "main": "nonRepeating.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node nonRepeating.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prodigy00/nonRepeating.git"
+  },
+  "keywords": [
+    "['algorithms'",
+    "'data-structures']"
+  ],
+  "author": "Gideon Idowu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Prodigy00/nonRepeating/issues"
+  },
+  "homepage": "https://github.com/Prodigy00/nonRepeating#readme"
+}
